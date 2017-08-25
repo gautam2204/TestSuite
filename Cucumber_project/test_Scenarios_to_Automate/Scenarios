@@ -1,0 +1,46 @@
+1)	Test whether Gmail page is opening or not.
+2)	After the Gmail page opens, check whether all the 
+options are available in it(Username, password, stay signed 
+in check-box, Sign in tab, ‘Cant access your account’ 
+hyperlink, create an account, etc)
+3)	Move the mouse cursor over all enterable text boxes 
+(Username and Password). Cursor should change from arrow to 
+insert bar.
+4)	Example of valid enterable form of username should 
+appear below Username box.
+5)	Enter the user name only and try to login- you 
+should get a message-Enter your password.
+6)	Enter the password only and try to login, you should 
+get a message-enter your email address.
+7)	Enter invalid characters like!@$ %^&*() _+ in the 
+username box and you should get a message – invalid email 
+address.
+8)	Move the mouse cursor over the sign in tab and it 
+should glow.
+9)	Enter the correct username and incorrect password 
+and you should get the message- The username or password you 
+entered is incorrect. 
+10)	Enter the incorrect username and correct password 
+and you should get the message-The username or password you 
+entered is incorrect.
+11)	The cursor should jump from username box to password 
+box by using the Tab key in the computer.
+12)	Whenever the cursor lands in either of the text 
+boxes, it should get highlighted.
+13)	Then see if the login id is working by clicking on 
+the sign in button as well as by clicking on Enter key in 
+your computer.
+14)	Also password should be min 6 character to the 32 
+character should accept.
+15)	When you click on the ‘Can’t access your account’ it 
+should take you to “Google accounts page displaying the 
+‘Email Address’-enterable text box, submit tab, forgot your 
+username, create a new Google account and try these trouble 
+shooting tips- hyperlink.
+16)	When you click on the ‘Create an account” command 
+button, it should lead you to ‘create a Gmail account-Gmail 
+screen.
+17)	All the hyperlinked text should be accessible in the 
+Gmail sign in page.
+18)	Check for the aesthetic conditions of the Gmail sign 
+in page. 
