@@ -43,7 +43,7 @@ Feature: Login Features
       | url |
       | Url |
       
-@Case-5 @commitTest
+@Case-5 @comitTest
   Scenario Outline: All the hyperlinked text should be accessible in the Gmail sign in page.
     Given I am on login page for signIn using "<url>"
     When I get all the links on the page
