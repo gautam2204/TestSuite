@@ -94,7 +94,7 @@ public class Login_Page extends GenericUtilities {
 		// InputStream input =
 		// Properties.class.getResourceAsStream(defaultProp);
 		InputStream input = new FileInputStream(
-				"E://cucumber Workspace//Cucumber_project//defaultProperties.properties");
+				"defaultProperties.properties");
 		prop.load(input);
 		return prop.getProperty(property);
 	}
