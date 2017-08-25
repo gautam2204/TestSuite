@@ -42,3 +42,12 @@ Feature: Login Features
     Examples: 
       | url |
       | Url |
+      
+@Case-5 @commitTest
+  Scenario Outline: All the hyperlinked text should be accessible in the Gmail sign in page.
+    Given I am on login page for signIn using "<url>"
+    When I get all the links on the page
+
+    Examples: 
+      | url |
+      | Url |      
